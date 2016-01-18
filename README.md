@@ -2,6 +2,7 @@
 You are given a binary image. Binary image is basically represented by a matrix of 0-1 values. The pixel whose value is 1 is said to be bright pixel and the pixel whose value is 0 is said to be dark pixel. The consecutive bright pixels (here consecutive means upper, lower, left side or right side) form an object.
 
 For example, in the following binary image there are 6 objects 
+
 ![alt tag](https://cloud.githubusercontent.com/assets/10424520/12394019/518ea45c-be1f-11e5-85dd-ec692051f505.png)
 
 You will be given an input binary image in matrix form each element of which will be 0 or 1. You have to detect number of objects in the image.
