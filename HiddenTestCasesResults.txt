@@ -1,6 +1,6 @@
-Hidden Test Cases Ran Against = 10
-Passes Testcases              = 09
-Failes Test Cases             = 01
+Hidden Test Cases Ran         = 10
+Passed Testcases              = 09
+Failed Test Cases             = 01
 
 Total Score                   = 90
 Maximum Score                 = 100
