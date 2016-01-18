@@ -1,5 +1,5 @@
 
-public class Test2 {
+public class PixCode {
 	public static int pixelValue(int [] input1,int [] input2) 
   {
 	//int matrixDef [] = {7,0,3,1,1,0,1,1};
